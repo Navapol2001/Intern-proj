@@ -11,4 +11,9 @@ public class TestResult {
         Result b = new Result();
         b.enter(a);
     }
+    @Test
+    public void testExit() throws IOException {
+        App aa = new App();
+        aa.enter(new App());
+    }
 }
