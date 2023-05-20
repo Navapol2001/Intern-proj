@@ -1,0 +1,7 @@
+com/example/demo/model/Student.class
+com/example/demo/DemoApplication.class
+com/example/demo/resource/CourseRes.class
+com/example/demo/model/Course.class
+com/example/demo/resource/StudentRes.class
+com/example/demo/repository/CourseRepo.class
+com/example/demo/repository/StudentRepo.class
